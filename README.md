@@ -1,64 +1,101 @@
-# 👋 Hi, I'm Mohamed Hany
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter+Developer;Mobile+Application+Engineer;Clean+Architecture+Enthusiast;Building+Scalable+Apps&center=true&width=600&height=50">
+</p>
 
-🚀 Flutter Developer | Mobile Application Engineer
+<h1 align="center">Hi 👋, I'm Mohamed Hany</h1>
 
-I specialize in building scalable, high-performance Flutter applications with clean architecture and modern development practices.  
-My focus is on creating real-time systems, complex business applications, and smooth user experiences.
-
----
-
-## 🧑‍💻 About Me
-
-- 📱 Flutter Developer
-- ⚡ Building scalable mobile applications
-- 🔥 Experience with Firebase & real-time systems
-- 🧾 Developed systems like POS, Accounting, and E-commerce apps
-- 🖨️ Experience integrating network printers & APIs
-- 🧠 Focused on performance optimization and clean architecture
+<h3 align="center">Flutter Developer | Mobile Application Engineer</h3>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+- 📱 Flutter Developer focused on scalable mobile applications
+- 🔥 Experience with Firebase, real-time systems, and APIs
+- 🧾 Built systems like POS, Accounting, and E-commerce
+- 🖨️ Experience integrating network printers and backend APIs
+- ⚡ Passionate about clean architecture and performance optimization
+
+---
+
+# 🛠️ Tech Stack
 
 ### Mobile Development
-Flutter
-Dart
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio"/>
+</p>
 
 ### Backend / Cloud
-Firebase
-Supabase
 
-### Tools & Technologies
-Git
-Android
-VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs"/>
+</p>
 
----
+### Tools
 
-## 📊 GitHub Stats
-
-Mohamed's GitHub stats
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-## 🔥 Most Used Languages
+# 📊 GitHub Stats
 
-Top Langs
+<p align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed6572&show_icons=true&theme=tokyonight"/>
 
-## 📈 GitHub Activity
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed6572&layout=compact&theme=tokyonight"/>
 
-GitHub Streak
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn
-- 📧 Email
-- 🌍 Portfolio (coming soon)
+</p>
 
 ---
 
-⭐ **I’m always learning, building, and improving my development skills
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mohamed6572&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed6572&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mohamed6572/mohamed6572/output/snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Always learning and building better software.
