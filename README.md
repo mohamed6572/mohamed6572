@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohamed Hany
 
-<!--
-**mohamed6572/mohamed6572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Developer | Mobile Application Engineer
 
-Here are some ideas to get you started:
+I specialize in building scalable, high-performance Flutter applications with clean architecture and modern development practices.  
+My focus is on creating real-time systems, complex business applications, and smooth user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+- 📱 Flutter Developer
+- ⚡ Building scalable mobile applications
+- 🔥 Experience with Firebase & real-time systems
+- 🧾 Developed systems like POS, Accounting, and E-commerce apps
+- 🖨️ Experience integrating network printers & APIs
+- 🧠 Focused on performance optimization and clean architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### Mobile Development
+Flutter
+Dart
+
+### Backend / Cloud
+Firebase
+Supabase
+
+### Tools & Technologies
+Git
+Android
+VS Code
+
+---
+
+## 📊 GitHub Stats
+
+Mohamed's GitHub stats
+
+---
+
+## 🔥 Most Used Languages
+
+Top Langs
+
+---
+
+## 📈 GitHub Activity
+
+GitHub Streak
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn
+- 📧 Email
+- 🌍 Portfolio (coming soon)
+
+---
+
+⭐ **I’m always learning, building, and improving my development skills
